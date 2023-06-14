@@ -1,10 +1,10 @@
-# assignment_demo_2023
+# Tiktok Tech Immersion Assignment 2023
 
 ![Tests](https://github.com/TikTokTechImmersion/assignment_demo_2023/actions/workflows/test.yml/badge.svg)
 
 This is the backend assignment of 2023 TikTok Tech Immersion.
 
-## Installation
+## 💻 Installation
 
 Requirement:
 
@@ -17,7 +17,7 @@ To install dependency tools:
 make pre
 ```
 
-## Run
+## 🏃 Run
 
 ```bash
 docker-compose up -d
